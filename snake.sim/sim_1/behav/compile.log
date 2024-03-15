@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/hp/snake/snake.srcs/sources_1/new/display.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity display
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/hp/snake/snake.srcs/sim_1/new/simulation.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity simulation
